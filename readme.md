@@ -1,3 +1,3 @@
-#This is a demo repo
+##This is a demo repo
 
-## nothing serious just practicing my git
+### nothing serious just practicing my git
